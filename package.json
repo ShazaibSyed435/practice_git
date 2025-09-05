@@ -1,0 +1,22 @@
+{
+  "name": "practice_git",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShazaibSyed435/practice_git.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShazaibSyed435/practice_git/issues"
+  },
+  "homepage": "https://github.com/ShazaibSyed435/practice_git#readme",
+  "description": "",
+  "dependencies": {
+    "sequelize": "^6.37.7"
+  }
+}
